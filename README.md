@@ -115,11 +115,14 @@ All lecture recordings are available in our YouTube playlist, where students can
 ## 🏫 About iCode Guru
 **iCode Guru** is a non-profit initiative dedicated to making coding education accessible for all. We aim to empower students, beginners, and enthusiasts to learn programming without financial barriers.
 
-## 👩‍🏫 Meet the Trainers
+## 👩‍🏫 Meet the Trainers and Moderators
 Our sessions are conducted by a passionate team of volunteers:
 * **Hanif Ullah** (Lead & Trainer)
 * **Jaweria Siddique** (Trainer)
 * **Haris Khan** (Trainer)
+* **Abdul Rehman** (Moderator)
+* **Irshad Ahmad** (Moderator)
+* **Arslan**(Moderator)
 
 ---
 *Created and Maintained by [Hanif Ullah](https://github.com/hanifullah313)*
