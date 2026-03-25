@@ -89,21 +89,21 @@ All lecture recordings are available in our YouTube playlist, where students can
 | 3 | 26/3/26 | Array Manipulation | [Link](#) | Haris Khan | manipulation.py | Notes |
 | 4 | 27/3/26 | Hashing (Hash Map vs Hash Set) | [Link](#) | Hanif Ullah | hashing.py | Notes |
 | 5 | 28/3/26 | Strings (Character traversal & Anagram concepts) | [Link](#) | Jaweria Siddique | strings.py | Notes |
-| 5 | 29/3/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
-| 5 | 30/3/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
-| 5 | 31/3/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
-| 5 | 1/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
-| 5 | 2/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
-| 5 | 3/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
-| 5 | 4/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
-| 5 | 5/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
-| 5 | 6/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
-| 5 | 7/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
-| 5 | 8/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes
-| 5 | 9/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
-| 5 | 10/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
-| 5 | 11/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
-| 5 | 12/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
+| 6 | 31/3/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
+| 7 | 1/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
+| 8 | 2/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
+| 9 | 3/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
+| 10 | 4/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
+| 11 | 7/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
+| 12 | 8/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
+| 13 | 9/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
+| 14 | 10/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
+| 15 | 11/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
+| 16 | 14/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes
+| 17 | 15/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
+| 18 | 16/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
+| 19 | 17/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
+| 20 | 18/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
 
 | ... | ... | ... | ... | ... | ... | ... |
 
