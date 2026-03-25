@@ -84,11 +84,27 @@ All lecture recordings are available in our YouTube playlist, where students can
 
 | Session | Date | Topic | Recording | Trainer | Code File | Material |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | 29/9/25 | Introduction & Complexity | [Link](#) | Hanif Ullah | intro.py | Notes |
-| 2 | 30/9/25 | Array Basics | [Link](#) | Jaweria Siddique | arrays.py | Notes |
-| 3 | 1/10/25 | Array Manipulation | [Link](#) | Haris Khan | manipulation.py | Notes |
-| 4 | 2/10/25 | Hashing Concepts | [Link](#) | Hanif Ullah | hashing.py | Notes |
-| 5 | 3/10/25 | Strings & Anagrams | [Link](#) | Jaweria Siddique | strings.py | Notes |
+| 1 | 24/3/26 | Introduction & Complexity | [Link](https://www.youtube.com/live/W14IUPaQ3nk?si=-ChN1TlxiKNldp6e) | Jaweria | [time&space_Complexity.py](https://colab.research.google.com/drive/1c0UEnK2Rnm7Y1K8MMrjdzXw6erf0PHwz?usp=sharing) | [DSA Intro Slides](https://docs.google.com/document/d/1Byxt-zXcaSLmWFdrG6dD8-HDxyRM1_UxyPzSeEufbhw/edit?usp=sharing) |
+| 2 | 25/3/26 | Array Basics | [Link](#) | Haris, Hanifullah | arrays.py | Notes |
+| 3 | 26/3/26 | Array Manipulation | [Link](#) | Haris Khan | manipulation.py | Notes |
+| 4 | 27/3/26 | Hashing Concepts | [Link](#) | Hanif Ullah | hashing.py | Notes |
+| 5 | 28/3/26 | Strings & Anagrams | [Link](#) | Jaweria Siddique | strings.py | Notes |
+| 5 | 29/3/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
+| 5 | 30/3/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
+| 5 | 31/3/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
+| 5 | 1/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
+| 5 | 2/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
+| 5 | 3/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
+| 5 | 4/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
+| 5 | 5/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
+| 5 | 6/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
+| 5 | 7/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
+| 5 | 8/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes
+| 5 | 9/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
+| 5 | 10/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
+| 5 | 11/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
+| 5 | 12/4/26 | Strings & Anagrams | [Link](#) |  | strings.py | Notes |
+
 | ... | ... | ... | ... | ... | ... | ... |
 
 ---
