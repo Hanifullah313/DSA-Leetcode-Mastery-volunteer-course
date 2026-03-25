@@ -122,7 +122,7 @@ Our sessions are conducted by a passionate team of volunteers:
 * **Haris Khan** (Trainer)
 * **Abdul Rehman** (Moderator)
 * **Irshad Ahmad** (Moderator)
-* **Arslan**(Moderator)
+* **Mohammad Arslan**(Moderator)
 
 ---
 *Created and Maintained by [Hanif Ullah](https://github.com/hanifullah313)*
