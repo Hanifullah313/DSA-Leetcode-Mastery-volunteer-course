@@ -82,8 +82,8 @@ All lecture recordings are available in our YouTube playlist, where students can
 
 ## ✅ Progress Checkpoints
 
-| Session | Date | Topic | Recording | Trainer | Code File | Material |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Session | Date | Topic | Questions | Solution Code | Colab File | Material(PDFs) |Recording | Trainers |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | 24/3/26 | Introduction , time Complexity | [Link](https://www.youtube.com/live/W14IUPaQ3nk?si=-ChN1TlxiKNldp6e) | Jaweria | [time&space_Complexity.py](https://colab.research.google.com/drive/1c0UEnK2Rnm7Y1K8MMrjdzXw6erf0PHwz?usp=sharing) | [DSA Intro Slides](https://docs.google.com/document/d/1Byxt-zXcaSLmWFdrG6dD8-HDxyRM1_UxyPzSeEufbhw/edit?usp=sharing) [DSA-Course-Overview-Slides](https://drive.google.com/file/d/1eEHN_TvLgFmsQ2Dzms75zYLDlEOOu-Vp/view?usp=sharing)|
 | 2 | 25/3/26 | Time & space complexity revise and Array Basics | [Link](https://youtu.be/4kd1iXPI5bw?si=pk5Ur1Tx7hgJNf6q) | Haris, Hanifullah | arrays.py | [Array-Basics](https://drive.google.com/file/d/1EqdoZz1EWl5qCcZ1LWXQ4F3QdhnwUAj1/view?usp=sharing) []()|
 | 3 | 26/3/26 | Array Manipulation | [Link](#) | Hanif Ullah | [manipulation.py](https://colab.research.google.com/drive/1he26xyfjrfYMcjb7NKZV03PrifC6umg6?usp=sharing) | [Notes](https://miro.com/app/board/uXjVGsCsNk4=/) |
