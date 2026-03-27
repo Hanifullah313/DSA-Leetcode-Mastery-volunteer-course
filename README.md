@@ -83,7 +83,7 @@ All lecture recordings are available in our YouTube playlist, where students can
 ## ✅ Progress Checkpoints
 
 | Session | Date | Topic | Questions | Solution Code | Colab File | Material(PDFs) |Recording | Trainers |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :------------- | :--- | :--- | :--- | :--- | :--- |
 | 1 | 24/3/26 | Introduction , time Complexity |  |  | [time&space_Complexity.py](https://colab.research.google.com/drive/1c0UEnK2Rnm7Y1K8MMrjdzXw6erf0PHwz?usp=sharing) | [DSA Intro Slides](https://docs.google.com/document/d/1Byxt-zXcaSLmWFdrG6dD8-HDxyRM1_UxyPzSeEufbhw/edit?usp=sharing) [DSA-Course-Overview-Slides](https://drive.google.com/file/d/1eEHN_TvLgFmsQ2Dzms75zYLDlEOOu-Vp/view?usp=sharing)| [Watch](https://www.youtube.com/live/W14IUPaQ3nk?si=-ChN1TlxiKNldp6e) | Jaweria |
 | 2 | 25/3/26 | Time & space complexity revise and Array Basics | NA | NA | NA | [Array-Basics-slides](https://drive.google.com/file/d/1EqdoZz1EWl5qCcZ1LWXQ4F3QdhnwUAj1/view?usp=sharing) []()| [Watch](https://youtu.be/4kd1iXPI5bw?si=pk5Ur1Tx7hgJNf6q) | Haris, HanifUllah |
 | 3 | 26/3/26 | Array Manipulation | [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/)[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)[]()|  | [Day 02 (Array Basics) & Day 03 (Array Manipulation Problems-Solution).py](https://colab.research.google.com/drive/1he26xyfjrfYMcjb7NKZV03PrifC6umg6?usp=sharing) | [In-Place Array Modification-slides](https://miro.com/app/board/uXjVGsCsNk4=/) | | HanifUllah |
