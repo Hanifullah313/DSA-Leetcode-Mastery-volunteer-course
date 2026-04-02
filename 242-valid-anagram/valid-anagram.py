@@ -1,21 +1,21 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         # Step 1: Check if lengths match (O(1))
+        
+        # If lengths differ, they cannot be anagrams
         if len(s) != len(t):
             return False
         
-       
-        buckets = [0] * 26
+        count = {}
         
-         
-        for i in range(len(s)):
-            # Increment for string s, Decrement for string t 
-            buckets[ord(s[i]) - ord('a')] += 1
-            buckets[ord(t[i]) - ord('a')] -= 1
+        # Count characters in string s
+        for char in s:
+            count[char] = count.get(char, 0) + 1
             
-        
-        for count in buckets:
-            if count != 0:
+        # Subtract counts using string t
+        for char in t:
+            if char not in count or count[char] == 0:
                 return False
-                
-        return True 
+            count[char] -= 1
+            
+        return True
